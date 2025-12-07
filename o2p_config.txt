@@ -5,7 +5,7 @@
 --include Incident *Evidence*
 --nullable
 --enable-nullable-reference
---filename MSGraphSecurityPoco/generated/poco.cs
+--filename build/poco.cs
 --generator-type record
 --init-only
 --attribute json req key

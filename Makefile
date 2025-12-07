@@ -2,8 +2,8 @@
 # Paths
 # ----------------------------------------
 WORKSPACE            := $(shell pwd)
-POCO_INPUT           := $(WORKSPACE)/MSGraphSecurityPoco/generated/poco.cs
-POCO_OUTPUT_DIR      := $(WORKSPACE)/MSGraphSecurityPoco
+POCO_INPUT           := $(WORKSPACE)/build/poco.cs
+POCO_OUTPUT_DIR      := $(WORKSPACE)/build/
 O2P_CONFIG           := o2p_config.txt
 SPLITTER_PROJECT     := PocoSplitter
 

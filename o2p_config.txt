@@ -1,0 +1,13 @@
+--url https://graph.microsoft.com/v1.0/
+--ctor full
+--case pas
+--entity-case pas
+--include Incident *Evidence*
+--nullable
+--enable-nullable-reference
+--filename MSGraphSecurityPoco/generated/poco.cs
+--generator-type record
+--init-only
+--attribute json req key
+--namespace MSGraphSecurityPocoTest
+--navigation

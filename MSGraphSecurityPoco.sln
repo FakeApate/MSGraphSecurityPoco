@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSGraphSecurityPoco", "MSGraphSecurityPoco\MSGraphSecurityPoco.csproj", "{FD7BC7C8-D05A-4894-9E3F-6679CFA7ADFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocoSplitter", "PocoSplitter\PocoSplitter.csproj", "{8EB11D53-02E2-4CBD-AE81-6B820029FABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{FD7BC7C8-D05A-4894-9E3F-6679CFA7ADFD}.Release|x64.Build.0 = Release|Any CPU
 		{FD7BC7C8-D05A-4894-9E3F-6679CFA7ADFD}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD7BC7C8-D05A-4894-9E3F-6679CFA7ADFD}.Release|x86.Build.0 = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|x64.Build.0 = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Debug|x86.Build.0 = Debug|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|x64.ActiveCfg = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|x64.Build.0 = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|x86.ActiveCfg = Release|Any CPU
+		{8EB11D53-02E2-4CBD-AE81-6B820029FABA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

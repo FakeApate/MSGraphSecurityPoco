@@ -36,6 +36,5 @@ split: $(POCO_INPUT)
 # ----------------------------------------
 .PHONY: clean
 clean:
-	rm -r $(POCO_OUTPUT_DIR)/{generated,bin,obj} || true
-	rm -r $(SPLITTER_PROJECT)/{bin,obj} || true
+	rm -r $(POCO_OUTPUT_DIR)/ || true
 	echo "Clean complete."

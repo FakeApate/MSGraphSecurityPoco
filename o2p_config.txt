@@ -9,5 +9,4 @@
 --generator-type record
 --init-only
 --attribute json req key
---namespace MSGraphSecurityPocoTest
 --navigation
